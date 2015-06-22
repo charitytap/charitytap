@@ -19,4 +19,3 @@ $(window).on('scroll', function() {
 		$('header').css('background-color','transparent');
 	}
 });
-
